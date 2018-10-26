@@ -8,3 +8,5 @@ tags:
   - dumbass
 ---
 But hey, it's a neat tool, maybe.
+
+![](/img/products-grid1.jpg)
